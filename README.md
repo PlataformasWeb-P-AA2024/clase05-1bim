@@ -40,10 +40,9 @@ flask run o flask run --port 9000
 * Ingresar a la carpeta **ejemplo-flask**
 * Ejecutar los siguientes comandos
 ```
-  export FLASK_APP=app
-  flask run o flask run --port 9000
+  python app.py
 ```
-Por defecto el puerto donde se levantan las aplicaciones en flask es 5000
+
 
 <hr>
 
